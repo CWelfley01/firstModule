@@ -1,3 +1,2 @@
-# Skeleton React starter Project
-
-> Provided for the students of the [Bottega Code School](https://bottega.tech/)
+# My Git Project
+> I'll just say my code for the project you can put anything you want.
